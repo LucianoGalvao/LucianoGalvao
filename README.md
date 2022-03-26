@@ -1,5 +1,5 @@
 ### Olá! Me chamo Luciano Galvão e sou desenvolvedor front-end jr.
-
+<br>
 <div align="center">
   <a href="https://github.com/LucianoGalvao">
     <img
