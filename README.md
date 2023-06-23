@@ -43,6 +43,6 @@
 
 <br>
 
-- 🔭 Atualmente estou trabalhando na CheckStore, como dev front-end, utilizando Liquid (Shopify), como linguagem principal
+- 🔭 Atualmente estou trabalhando na Tiki Web, como dev front-end, utilizando ReactJS, NextJS, Styllus com eventuais projetos usando Twig (PHP) e WordPress
 - 🌱 Atualmente estou estudando React, NodeJS, PostgreSQL e Docker
 
