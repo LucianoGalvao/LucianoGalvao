@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,docker,postgres,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,docker,mongo,figma" />
 </p>
 
 <br />
@@ -44,5 +44,5 @@
 <br>
 
 - 🔭 Atualmente estou trabalhando na Tiki Web, como dev front-end, utilizando ReactJS, NextJS, Styllus com eventuais projetos usando Twig (PHP) e WordPress
-- 🌱 Atualmente estou estudando React, NodeJS, PostgreSQL e Docker
+- 🌱 Atualmente estou estudando: React, NodeJS, MongoDB e Docker
 
