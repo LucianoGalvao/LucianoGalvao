@@ -4,7 +4,7 @@
   <a href="https://github.com/LucianoGalvao">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=LucianoGalvao&show_icons=false&theme=dracula&include_all_commits=true&count_private=false"
+      src="https://github-readme-stats-ten-pi-38.vercel.app/api?username=LucianoGalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
     <img
       height="180em"
