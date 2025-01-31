@@ -4,11 +4,11 @@
   <a href="https://github.com/LucianoGalvao">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=LucianoGalvao&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=LucianoGalvao&show_icons=false&theme=dracula&include_all_commits=true&count_private=false"
     />
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=7&theme=dracula"      
     />
   </a>
 </div>
@@ -43,6 +43,6 @@
 
 <br>
 
-- 🔭 Atuando como Desenvolvedor Front-ENd na Tiki Web, utilizo ferramentas como ReactJS, NextJS, SASS/Styllus e também com eventuais projetos usando Twig (PHP) e WordPress.
+- 🔭 Atuando como Desenvolvedor Front-End na Tiki Web, utilizo ferramentas como ReactJS, NextJS, SASS/Styllus e também com eventuais projetos usando Twig (PHP) e WordPress.
 - 🌱 Pensando em ampliar meus conhecimentos, estou estudando por conta, tecnologias como NodeJS e MongoDB, sem descartar outros assuntos e tecnologias.
 
