@@ -1,4 +1,4 @@
-### Olá! Me chamo Luciano Galvão e sou desenvolvedor front-end jr.
+### Olá! Sou Luciano Galvão, Desenvolvedor Front-End.
 <br>
 <div align="center">
   <a href="https://github.com/LucianoGalvao">
@@ -43,6 +43,6 @@
 
 <br>
 
-- 🔭 Atualmente estou trabalhando na Tiki Web, como dev front-end, utilizando ReactJS, NextJS, Styllus com eventuais projetos usando Twig (PHP) e WordPress
-- 🌱 Atualmente estou estudando: React, NodeJS, MongoDB e Docker
+- 🔭 Atuando como Desenvolvedor Front-ENd na Tiki Web, utilizo ferramentas como ReactJS, NextJS, SASS/Styllus e também com eventuais projetos usando Twig (PHP) e WordPress.
+- 🌱 Pensando em ampliar meus conhecimentos, estou estudando por conta, tecnologias como NodeJS e MongoDB, sem descartar outros assuntos e tecnologias.
 
